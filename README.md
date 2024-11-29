@@ -57,4 +57,4 @@ This project explores the use of **SpaCy** for textual data preprocessing and th
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/paigeberrigan/panel_vision_3d.git
+   git clone https://github.com/paigeberrigan/nlp_proj2_hotelreviews.git
